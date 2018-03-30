@@ -1,5 +1,5 @@
 # HtmlCssExcercises
-This README will serve as a guide for the reader, in an effort to describe what I learned or was practicing in each excercise. This is not everything I have worked on, I've been on various 'code learning sites' using their text editors or input boxes to practice code. This is, however, code that I used to practice concepts as I learned them. Enjoy!
+This README will serve as a guide for the reader, in an effort to describe what I learned or was practicing in each excercise. This is not everything I have worked on, as I've been on various code-learning sites and using their text editors or input boxes to practice code. This is however, code that I used to practice concepts as I learned them. Enjoy!
 
 firstPage.html:
 
